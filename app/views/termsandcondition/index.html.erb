@@ -1,0 +1,8 @@
+<h1>Termsandcondition</h1>
+<ul>
+	<% @termsandcondition.each do |t| %>
+        <div id="editor">
+            <%= t.description.html_safe %>
+        </div>
+	<% end %>
+</ul>
