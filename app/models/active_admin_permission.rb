@@ -1,0 +1,2 @@
+class ActiveAdminPermission < ApplicationRecord
+end

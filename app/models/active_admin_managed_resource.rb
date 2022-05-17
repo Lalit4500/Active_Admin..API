@@ -1,0 +1,2 @@
+class ActiveAdminManagedResource < ApplicationRecord
+end
